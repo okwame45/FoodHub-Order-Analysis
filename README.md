@@ -93,7 +93,7 @@ FoodHub-Order-Analysis/
 
 ---
 
-## 📈 Future Improvements
+## Future Improvements
 - Build predictive models for demand forecasting
 - Perform customer segmentation analysis
 - Develop an interactive dashboard (Power BI / Tableau)
@@ -107,4 +107,4 @@ FoodHub-Order-Analysis/
 ---
 
 ## Show Your Support
-If you found this project useful, consider giving it a star
+If you found this project useful, consider giving it a star!
